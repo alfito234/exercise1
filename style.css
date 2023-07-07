@@ -51,6 +51,9 @@ h2 {
   width: 100%;
   border-radius: 10px;
 }
+.detail {
+  padding: 0 5px;
+}
 .song-title {
   color: white;
   font-weight: bold;
